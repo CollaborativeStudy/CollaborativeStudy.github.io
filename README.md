@@ -3,7 +3,7 @@ We are CollaborativeStudy! We are all Information and Computer Science (ICS) maj
 
 ### Authors and Contributors
 Mariah Gaoiran (@mariahgaoiran)   
-Neal (@huang6606521)  
+Jipeng "Neal" Huang (@huang6606521)  
 Chad Morita (@chadmorita)    
 Mary Santabarbara (@marysantabarbara)       
 
