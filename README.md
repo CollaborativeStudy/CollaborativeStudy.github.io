@@ -11,7 +11,7 @@ Mary Santabarbara (@marysantabarbara)
 
 ####Public Landing Page
 
-This page displays information about Study Buddy for people who are not signed in.
+This page displays information about Collaborative Study for people who are not signed in.
 <img class="ui fluid centered image" src="/screenshots/Chad/public-landing.png">
 
 
