@@ -46,6 +46,27 @@ Users can navigate to the profiles of people attending the study sessions to lea
 <img class="ui fluid centered image" src="/screenshots/Chad/profile-2.png">
 
 
+####Review Page
+
+Users will be reviewed based on other STUDs
+
+<img class="ui fluid centered image" src="/screenshots/Marys/reveiw-page.png">
+
+
+####Messages Page
+
+Groups and other users can message each other about study sessions.
+
+<img class="ui fluid centered image" src="/screenshots/Marys/messages-page.png">
+
+
+####Groups Page
+
+This groups page will make easy to start a study session by linking or connecting to them.
+
+<img class="ui fluid centered image" src="/screenshots/Marys/groups-page.png">
+
+
 ####User Home Page
 
 ######My Calendar
