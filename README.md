@@ -80,11 +80,6 @@ Notifications displays any requests or updates.
 
 <img class="ui fluid centered image" src="/screenshots/Chad/user-home2.png">
 
-#####Study Points
-Study Points shows the users progress. For each study session, a uesr will receive points based on their rating.
-
-<img class="ui fluid centered image" src="/screenshots/Chad/user-home3.png">
-
 
 ####Calendar
 
