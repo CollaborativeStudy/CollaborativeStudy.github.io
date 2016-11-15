@@ -7,7 +7,19 @@ Jipeng "Neal" Huang (@huang6606521) <br>
 Chad Morita (@chadmorita) <br>
 Mary Santabarbara (@marysantabarbara) <br>
 
-###Here are some sample images of what CollaborativeStudy will look like:
+## CS
+Our app is called Collaborative Study or CS for short. Our app allows uh students to login with their acccounts and create study sessions with people they meet. Each student will get a profile page and is able to edit their bio, they can find other students and create study sessions, and they can keep track of all of their study sessions on one calender! The goal is to find others that can help you get better as a student. 
+
+Check out our app <a source="cs.meteorapp.com">here</a>.
+
+## Our Journey
+
+### First Milestone
+Our first goal for this project was to create a runnig mock up. It was hard to figure out how to seperate each milestone at first. We were wondering how far we should reach for the next two weeks. We figured that we do not have to go too far into our feature implementations. So we chose to reach for full mockups of our pages. We had a great skeleton for our mockups since Chad had great pages previously made. The next step was to add more ideas and create designed pages for them!
+
+All of us had no problems actually creating the pages but we all ran into some github and meteor issues. A lot of times when one commits their branches the others have troubles running meteor afterwards. The solution was to add a package, or update meteor, or even just uninstall and reinstall. Right now, meteor might be problematic with windows and macs but we find a way to work around it. Another problem was that one of us even forgot to commit changes to a branch and commited straight to the master. Luckily nothing broke at that moment! So far our project is going well, and we learned from these mistakes so our next milestone will have fewer problems.
+
+## Here are some sample images of what CollaborativeStudy will look like:
 
 ####Public Landing Page
 
