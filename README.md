@@ -1,16 +1,8 @@
 ## Who are we?
 We are CollaborativeStudy! We are all Information and Computer Science (ICS) majors at the University of Hawaii at Manoa. In our university, CS majors are usually those lone wolves studying by themselves and we want to end that. Our organization came together to create a student app that allows ICS majors to connect and study with other students. Doing this will create a fun and safe environment for students who want to make friends but are too shy or intimidated to do so. I hope you will support us throughout this development!
 
-### Authors and Contributors
-Mariah Gaoiran (@mariahgaoiran) <br>
-Jipeng "Neal" Huang (@huang6606521) <br>
-Chad Morita (@chadmorita) <br>
-Mary Santabarbara (@marysantabarbara) <br>
-
 ## CS
 Our app is called Collaborative Study or CS for short. Our app allows uh students to login with their acccounts and create study sessions with people they meet. Each student will get a profile page and is able to edit their bio, they can find other students and create study sessions, and they can keep track of all of their study sessions on one calender! The goal is to find others that can help you get better as a student. 
-
-wwww.cs.meteorapp.com
 
 ## Our Journey
 
@@ -84,3 +76,9 @@ Notifications displays any requests or updates.
 The Calendar page displays a list of all of the upcoming public study sessions including sessions that the user has not signed up for.
 
  <img class="ui fluid centered image" src="/screenshots/calender-page.png">
+
+### Authors and Contributors
+Mariah Gaoiran (@mariahgaoiran) <br>
+Jipeng "Neal" Huang (@huang6606521) <br>
+Chad Morita (@chadmorita) <br>
+Mary Santabarbara (@marysantabarbara) <br>
