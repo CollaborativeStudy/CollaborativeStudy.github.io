@@ -19,19 +19,12 @@ Our first goal for this project was to create a runnig mock up. It was hard to f
 
 All of us had no problems actually creating the pages but we all ran into some github and meteor issues. A lot of times when one commits their branches the others have troubles running meteor afterwards. The solution was to add a package, or update meteor, or even just uninstall and reinstall. Right now, meteor might be problematic with windows and macs but we find a way to work around it. Another problem was that one of us even forgot to commit changes to a branch and commited straight to the master. Luckily nothing broke at that moment! So far our project is going well, and we learned from these mistakes so our next milestone will have fewer problems.
 
-## Here are some sample images of what CollaborativeStudy will look like:
+## Here are some sample images of what CollaborativeStudy looks like:
 
 ####Public Landing Page
 
 This page displays information about Collaborative Study for people who are not signed in.
-<img class="ui fluid centered image" src="/screenshots/landing.png">
-
-
-####Login Page
-
-This page is used for logging in.
-<img class="ui fluid centered image" src="/screenshots/Chad/login.png">
-
+<img class="ui fluid centered image" src="/screenshots/landing-page.png">
 
 ####Create Study Session Page
 
@@ -90,4 +83,4 @@ Notifications displays any requests or updates.
 
 The Calendar page displays a list of all of the upcoming public study sessions including sessions that the user has not signed up for.
 
- <img class="ui fluid centered image" src="/screenshots/calendar-page.png">
+ <img class="ui fluid centered image" src="/screenshots/calender-page.png">
