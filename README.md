@@ -10,7 +10,7 @@ Mary Santabarbara (@marysantabarbara) <br>
 ## CS
 Our app is called Collaborative Study or CS for short. Our app allows uh students to login with their acccounts and create study sessions with people they meet. Each student will get a profile page and is able to edit their bio, they can find other students and create study sessions, and they can keep track of all of their study sessions on one calender! The goal is to find others that can help you get better as a student. 
 
-Check out our app <a source="cs.meteorapp.com">here</a>.
+wwww.cs.meteorapp.com
 
 ## Our Journey
 
