@@ -24,7 +24,7 @@ All of us had no problems actually creating the pages but we all ran into some g
 ####Public Landing Page
 
 This page displays information about Collaborative Study for people who are not signed in.
-<img class="ui fluid centered image" src="/screenshots/Chad/public-landing.png">
+<img class="ui fluid centered image" src="/screenshots/landing.png">
 
 
 ####Login Page
@@ -36,47 +36,40 @@ This page is used for logging in.
 ####Create Study Session Page
 
 Study sessions can be created by users using the form.
-<img class="ui fluid centered image" src="/screenshots/Chad/create-study-session-2.png">
+<img class="ui fluid centered image" src="/screenshots/create-study-session-page.png">
 
 
 ####Study Session Page
 
 Lists all of the upcoming study sessions.
-<img class="ui fluid centered image" src="/screenshots/Chad/study-session.png">
-
-
-####Study Session Details Page
-
-This page displays more information about the study session and allows uesrs to join the study session.
-<img class="ui fluid centered image" src="/screenshots/Chad/study-session-details.png">
-
+<img class="ui fluid centered image" src="/screenshots/study-session-page.png">
 
 ####Profile Page
 
 Users can navigate to the profiles of people attending the study sessions to learn more about each other. Courses are color coded to reflect the individual's confidence of understanding of the subject matter (green: well understood, yellow: some gaps in understanding, red: limited knowledge).
 
-<img class="ui fluid centered image" src="/screenshots/Chad/profile-2.png">
+<img class="ui fluid centered image" src="/screenshots/profile-page.png">
 
 
 ####Review Page
 
 Users will be reviewed based on other STUDs
 
-<img class="ui fluid centered image" src="/screenshots/Marys/reveiw-page.png">
+<img class="ui fluid centered image" src="/screenshots/review-page.png">
 
 
 ####Messages Page
 
 Groups and other users can message each other about study sessions.
 
-<img class="ui fluid centered image" src="/screenshots/Marys/messages-page.png">
+<img class="ui fluid centered image" src="/screenshots/messages-page.png">
 
 
 ####Groups Page
 
 This groups page will make easy to start a study session by linking or connecting to them.
 
-<img class="ui fluid centered image" src="/screenshots/Marys/groups-page.png">
+<img class="ui fluid centered image" src="/screenshots/groups-page.png">
 
 
 ####User Home Page
@@ -84,17 +77,17 @@ This groups page will make easy to start a study session by linking or connectin
 ######My Calendar
 My Calendar displays the upcoming study sessions that the user is scheduled for.
 
-<img class="ui fluid centered image" src="/screenshots/Chad/user-home1.png">
+<img class="ui fluid centered image" src="/screenshots/my-calender-page.png">
 
 
 #####Notifications
 Notifications displays any requests or updates.
 
-<img class="ui fluid centered image" src="/screenshots/Chad/user-home2.png">
+<img class="ui fluid centered image" src="/screenshots/notifications-page.png">
 
 
 ####Calendar
 
 The Calendar page displays a list of all of the upcoming public study sessions including sessions that the user has not signed up for.
 
- <img class="ui fluid centered image" src="/screenshots/Chad/calendar.png">
+ <img class="ui fluid centered image" src="/screenshots/calendar-page.png">
