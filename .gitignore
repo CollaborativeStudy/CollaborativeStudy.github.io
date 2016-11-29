@@ -12,3 +12,11 @@ settings.production.json
 
 # Build node_modules locally.
 node_modules/
+
+.DS_Store
+
+.DS_Store
+
+screenshots/.DS_Store
+
+_site/
