@@ -65,6 +65,8 @@ The public Calendar page is a visual display of all upcoming public study sessio
 <img class="ui fluid centered image" src="/screenshots/messagesPage.png">
 A chat room for all online users is also available under the "Chat Room" tab.
 
+## Developers Guide
+If you want a piece of this code just download [Meteor](https://www.meteor.com/) at the link and any IDE of your choice. We used [IntelliJ IDEA](https://www.jetbrains.com/idea/) because it is a great IDE. Take the tutorials on meteor to get comfortable and brush up on your HTML, Javascript, CSS, and Jquery. After that, you will be able to create this app and even make it better!
 
 ## Who are we?
  We are CollaborativeStudy, a group of Information and Computer Science (ICS) majors at the University of Hawaii at Manoa. As ICS majors, we know best: the life of a computer science student can be a difficult and lonely one. It isn't unusual to be a lone wolf, studying by yourself. 
@@ -74,7 +76,7 @@ A chat room for all online users is also available under the "Chat Room" tab.
 ## Our Journey
  To view the progress we're making on the app, see our project milestones at http://github.com/CollaborativeStudy/CS/projects
 
-##Initial User Study
+## Initial User Study
 
  The test subjects were different majors. We wanted to see how other people would react to this app. We had one ICS major, and the rest were engineer majors, a communications major, an accounting major and a dental hygiene major. We separate these people into three group studies. We had them go to our website and use it without too much instruction. As they dive into our app, they provided all the feedback they could offered. 
  
