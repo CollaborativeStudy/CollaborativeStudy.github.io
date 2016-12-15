@@ -10,7 +10,7 @@ Users of this app will be able to:
  
 Check out our app at http://cs.meteorapp.com/
 
-## User Guide
+## Guided Tour
 
 ####Public Landing Page
 
@@ -65,8 +65,12 @@ The public Calendar page is a visual display of all upcoming public study sessio
 <img class="ui fluid centered image" src="/screenshots/messagesPage.png">
 A chat room for all online users is also available under the "Chat Room" tab.
 
-## Developers Guide
-If you want a piece of this code just download [Meteor](https://www.meteor.com/) at the link and any IDE of your choice. We used [IntelliJ IDEA](https://www.jetbrains.com/idea/) because it is a great IDE. Take the tutorials on meteor to get comfortable and brush up on your HTML, Javascript, CSS, and Jquery. After that, you will be able to create this app and even make it better!
+## Developer Guide
+If you would like to make modifications to this app, download Meteor ([here](https://www.meteor.com/)) and any IDE of your choice. Personally, our team enjoyed using [IntelliJ IDEA](https://www.jetbrains.com/idea/). Please note that you should be comfortable with HTML, Javascript, CSS, and Jquery before working on our code. The tutorials provided on the Meteor website should also help you get used to the platform.
+
+After downloading Meteor, clone [our repo](https://github.com/CollaborativeStudy/CS) from GitHub and get working on it. You may run the app locally through the command line by changing to the "app" directory and running "meteor --settings ../config/settings.development.json".
+
+When you are finished making changes, send us a pull request and we'll check it out!
 
 ## Who are we?
  We are CollaborativeStudy, a group of Information and Computer Science (ICS) majors at the University of Hawaii at Manoa. As ICS majors, we know best: the life of a computer science student can be a difficult and lonely one. It isn't unusual to be a lone wolf, studying by yourself. 
