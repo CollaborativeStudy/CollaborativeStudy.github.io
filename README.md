@@ -68,6 +68,7 @@ A chat room for all online users is also available under the "Chat Room" tab.
 
 ## Who are we?
  We are CollaborativeStudy, a group of Information and Computer Science (ICS) majors at the University of Hawaii at Manoa. As ICS majors, we know best: the life of a computer science student can be a difficult and lonely one. It isn't unusual to be a lone wolf, studying by yourself. 
+ 
  Our organization came together to end that. Together, we are developing a student app that allows ICS majors to connect and study with other students. Doing this will create a fun and safe environment for students who want to make friends but are too shy or intimidated to do so. I hope you will support us throughout this development!
 
 ## Our Journey
@@ -76,6 +77,7 @@ A chat room for all online users is also available under the "Chat Room" tab.
 ##Initial User Study
 
  The test subjects were different majors. We wanted to see how other people would react to this app. We had one ICS major, and the rest were engineer majors, a communications major, an accounting major and a dental hygiene major. We separate these people into three group studies. We had them go to our website and use it without too much instruction. As they dive into our app, they provided all the feedback they could offered. 
+ 
  The majority agreed that overall the main features seemed to work okay however there were a few bugs. Sometimes tutorial blocks will not exit and some actions did not do anything. They even offered many suggestions for improvement. However, for a first test try we believe that we showed great features and a lot potential to our first users!
 
 
