@@ -1,3 +1,5 @@
+<img class="ui fluid centered image" src="/screenshots/CSLogo.png">
+
 ## Who are we?
 We are CollaborativeStudy, a group of Information and Computer Science (ICS) majors at the University of Hawaii at Manoa. As ICS majors, we know best: the life of a computer science student can be a difficult and lonely one. It isn't unusual to be a lone wolf, studying by yourself. 
 Our organization came together to end that. Together, we are developing a student app that allows ICS majors to connect and study with other students. Doing this will create a fun and safe environment for students who want to make friends but are too shy or intimidated to do so. I hope you will support us throughout this development!
@@ -69,3 +71,5 @@ Mariah Gaoiran (@mariahgaoiran) <br>
 Jipeng "Neal" Huang (@huang6606521) <br>
 Chad Morita (@chadmorita) <br>
 Mary Santabarbara (@marysantabarbara) <br>
+
+<img class="ui fluid centered image" src="/screenshots/CSLogo.png">
