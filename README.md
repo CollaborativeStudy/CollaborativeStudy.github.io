@@ -16,47 +16,50 @@ Check out our app at http://cs.meteorapp.com/
 ####Public Landing Page
 
 <img class="ui fluid centered image" src="/screenshots/publicLandingPage.png">
-An informational page about Collaborative Study before users log in.
+The first page users see before logging in is an informational page about Collaborative Study. Users will log in under the the "Account" dropdown using their UH username and password.
 
 ####Profile Page
 
 <img class="ui fluid centered image" src="/screenshots/profilePage.png">
-Users can navigate to the profiles of people attending the study sessions to learn more about each other. Courses are color coded to reflect the individual's confidence of understanding of the subject matter (green: well understood, yellow: some gaps in understanding, red: limited knowledge).
+Each user receives an editable profile page so others may learn more about them.
+
+On this page, users can create a listing of courses under two categories, "Pros" or "Studs". Pros (short for "Professors") are classes students are competent in, while Studs (short for "Students") are classes they might need help in. Courses are color coded to reflect the individual's confidence of understanding of the subject matter; green: well understood, yellow: some gaps in understanding, red: limited knowledge.
 
 ####Review Page
 
 <img class="ui fluid centered image" src="/screenshots/reviewPage.png">
-Users are able to rate and write reviews for other users.
+Accessed from the "Reviews" button on a profile, the reviews page is a listing of ratings and reviews left by other users about the profile's owner. Any user is welcome to submit reviews for another user, though they are regulated by an administrator after submission.
 
 ####Groups Page
 
 <img class="ui fluid centered image" src="/screenshots/groupsPage.png">
-This groups page will make easy to start a study session by linking or connecting to them.
+When users become comfortable working with specific students, they can form a study "Group" to quicken the process of making study sessions with them. Users may create new groups or join existing ones through the groups page.
 
 ####Study Session Page
 
 <img class="ui fluid centered image" src="/screenshots/studySessionsPage.png">
-Lists all of the upcoming study sessions.
+A listing of all the upcoming study session created by users on CS. Study sessions may be searched for by course using the search bar at the top.
 
 ####Study Session Details Page
 
 <img class="ui fluid centered image" src="/screenshots/studySessionDetailsPage.png">
-Study sessions can be created by users using the form.
+A more detailed explanation of a study session can be brought up, either through clicking the "More Info" button on the Study Session Page or clicking a study session on the calendar.
+From here, users may join the study session as a Pro (tutor) or Stud (tutee). Students that join as Pros are welcome to add and remove topics that will be taught at that session.
 
-####Create Study Session Page
+####Create Study Session Form
 
 <img class="ui fluid centered image" src="/screenshots/createStudySessionPage.png">
-Study sessions can be created by users using the form.
+Clicking on a day in the calendar results in a modal to create a study session on that day. Users will specify the session title, course, topic, start time and end time for their session.
 
 ####Calendar
 
 <img class="ui fluid centered image" src="/screenshots/calendarPage.png">
-The Calendar page displays a list of all of the upcoming public study sessions including sessions that the user has not signed up for.
+The Calendar page is a visual display of all upcoming public study sessions, including sessions that the user has not signed up for. Users may click on a day to create a study session for that day, or may click existing study sessions for more details.
 
-####Messages Page
+####Chat Room
 
 <img class="ui fluid centered image" src="/screenshots/messagesPage.png">
-All online users can come together and chat 
+A chat room for all online users is also available under the "Chat Room" tab.
 
 ## Our Journey
 To view the progress we're making on the app, see our project milestones at http://github.com/CollaborativeStudy/CS/projects
