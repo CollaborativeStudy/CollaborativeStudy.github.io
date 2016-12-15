@@ -1,4 +1,4 @@
-<img class="ui fluid centered image" src="/screenshots/CSLogo.png">
+
 
 ## Who are we?
 We are CollaborativeStudy, a group of Information and Computer Science (ICS) majors at the University of Hawaii at Manoa. As ICS majors, we know best: the life of a computer science student can be a difficult and lonely one. It isn't unusual to be a lone wolf, studying by yourself. 
