@@ -80,8 +80,10 @@ A chat room for all online users is also available under the "Chat Room" tab.
 
 
 ### Authors and Contributors
- Mariah Gaoiran (@mariahgaoiran) <br>
- Jipeng "Neal" Huang (@huang6606521) <br>
- Chad Morita (@chadmorita) <br>
- Mary Santabarbara (@marysantabarbara) <br>
+Click our names for our online portolios or check out our githubs!<br>
+
+[Mariah Gaoiran](https://mariahgaoiran.github.io/) (@mariahgaoiran) <br>
+[Jipeng "Neal" Huang] (https://huang6606521.github.io/) (@huang6606521) <br>
+[Chad Morita](https://chadmorita.github.io/) (@chadmorita) <br>
+[Mary Santabarbara](https://marysantabarbara.github.io/) (@marysantabarbara) <br>
 
