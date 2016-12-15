@@ -32,6 +32,11 @@ On this page, users can create a listing of courses under two categories, "Pros"
 <img class="ui fluid centered image" src="/screenshots/reviewPage.png">
 Accessed from the "Reviews" button on a profile, the reviews page is a listing of ratings and reviews left by other users about the profile's owner. Any user is welcome to submit reviews for another user, though they are regulated by an administrator after submission.
 
+#### My Calendar Page
+
+<img class="ui fluid centered image" src="/screenshots/myCalendar.png">
+The Calendar page is a visual display of all upcoming public study sessions you have joined. Users may click on a day to create a study session for that day, or may click existing study sessions for more details.
+
 ####Groups Page
 
 <img class="ui fluid centered image" src="/screenshots/groupsPage.png">
@@ -53,12 +58,12 @@ From here, users may join the study session as a Pro (tutor) or Stud (tutee). St
 <img class="ui fluid centered image" src="/screenshots/createStudySessionPage.png">
 Clicking on a day in the calendar results in a modal to create a study session on that day. Users will specify the session title, course, topic, start time and end time for their session.
 
-####Calendar
+####Public Calendar Page
 
 <img class="ui fluid centered image" src="/screenshots/calendarPage.png">
-The Calendar page is a visual display of all upcoming public study sessions, including sessions that the user has not signed up for. Users may click on a day to create a study session for that day, or may click existing study sessions for more details.
+The public Calendar page is a visual display of all upcoming public study sessions, including sessions that the user has not signed up for. Users may click on a day to create a study session for that day, or may click existing study sessions for more details.
 
-####Chat Room
+####Chat Room Page
 
 <img class="ui fluid centered image" src="/screenshots/messagesPage.png">
 A chat room for all online users is also available under the "Chat Room" tab.
