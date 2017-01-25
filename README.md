@@ -8,7 +8,7 @@ Users of this app will be able to:
 * Find, rate, and form groups with other students
 * Join and create study sessions through a public calender
  
-Check out our app at http://cs.meteorapp.com/
+[//]: <> (Check out our app at http://cs.meteorapp.com/)
 
 ## Guided Tour
 
