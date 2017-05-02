@@ -77,6 +77,7 @@ When you are finished making changes, send us a pull request and we'll check it 
  Our organization came together to end that. Together, we are developing a student app that allows ICS majors to connect and study with other students. Doing this will create a fun and safe environment for students who want to make friends but are too shy or intimidated to do so. I hope you will support us throughout this development!
 
 ## Our Journey
+ We have work on this project for months and we are proud of how far it has come. It started as our group assignment and turned into a side community project. Our goal is to make this web application relevant to the ICS department. Hopefully we will reach that goal but as of right now it is still a work in progress.
  To view the progress we're making on the app, see our project milestones at http://github.com/CollaborativeStudy/CS/projects
 
 ## Initial User Study
@@ -144,6 +145,5 @@ Thank you for the participants in the test. With this criticism, CS can improve 
 Click our names for our online portolios or check out our githubs!<br>
 
 [Mariah Gaoiran](https://mariahgaoiran.github.io/) (@mariahgaoiran) <br>
-[Jipeng "Neal" Huang] (https://huang6606521.github.io/) (@huang6606521) <br>
 [Chad Morita](https://chadmorita.github.io/) (@chadmorita) <br>
 [Mary Santabarbara](https://marysantabarbara.github.io/) (@marysantabarbara) <br>
