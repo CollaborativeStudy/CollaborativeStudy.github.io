@@ -6,7 +6,7 @@ Users of this app will be able to:
 * Maintain a public profile page
 * Find, rate, and form groups with other students
 * Join and create study sessions through a public calender
- 
+
 
 ## Guided Tour
 
@@ -53,7 +53,7 @@ From here, users may join the study session as a Pro (tutor) or Stud (tutee). St
 <img class="ui fluid centered image" src="/screenshots/createStudySessionPage.png">
 Clicking on a day in the calendar results in a modal to create a study session on that day. Users will specify the session title, course, topic, start time and end time for their session.
 
-####Public Calendar Page
+#### Public Calendar Page
 
 <img class="ui fluid centered image" src="/screenshots/calendarPage.png">
 The public Calendar page is a visual display of all upcoming public study sessions, including sessions that the user has not signed up for. Users may click on a day to create a study session for that day, or may click existing study sessions for more details.
@@ -71,8 +71,8 @@ After downloading Meteor, clone [our repo](https://github.com/CollaborativeStudy
 When you are finished making changes, send us a pull request and we'll check it out!
 
 ## Who are we?
- We are CollaborativeStudy, a group of Information and Computer Science (ICS) majors at the University of Hawaii at Manoa. As ICS majors, we know best: the life of a computer science student can be a difficult and lonely one. It isn't unusual to be a lone wolf, studying by yourself. 
- 
+ We are CollaborativeStudy, a group of Information and Computer Science (ICS) majors at the University of Hawaii at Manoa. As ICS majors, we know best: the life of a computer science student can be a difficult and lonely one. It isn't unusual to be a lone wolf, studying by yourself.
+
  Our organization came together to end that. Together, we are developing a student app that allows ICS majors to connect and study with other students. Doing this will create a fun and safe environment for students who want to make friends but are too shy or intimidated to do so. I hope you will support us throughout this development!
 
 ## Our Journey
@@ -81,10 +81,10 @@ When you are finished making changes, send us a pull request and we'll check it 
 
 ## Initial User Study
 
- The test subjects were different majors. We wanted to see how other people would react to this app. We had one ICS major, and the rest were engineer majors, a communications major, an accounting major and a dental hygiene major. We separate these people into three group studies. We had them go to our website and use it without too much instruction. As they dive into our app, they provided all the feedback they could offered. 
- 
+ The test subjects were different majors. We wanted to see how other people would react to this app. We had one ICS major, and the rest were engineer majors, a communications major, an accounting major and a dental hygiene major. We separate these people into three group studies. We had them go to our website and use it without too much instruction. As they dive into our app, they provided all the feedback they could offered.
+
  The majority agreed that overall the main features seemed to work okay however there were a few bugs. Sometimes tutorial blocks will not exit and some actions did not do anything. They even offered many suggestions for improvement. However, for a first test try we believe that we showed great features and a lot potential to our first users!
- 
+
 ## Usability Test (4/11/17)
 
 CS held it's second usability test on April 11th, 2017 with a group of three UH Manoa students of varying majors. Along with some bugs, we found two significant areas that need attention:
